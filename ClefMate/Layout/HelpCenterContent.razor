@@ -1,0 +1,71 @@
+<section class="h-auto py-[100px] bg-clef-banner-bg">
+    <div class="w-[95%] lg:w-[60%] mx-auto h-full flex flex-col gap-[4em] ">
+        @* contents card start *@
+        <div class="grid grid-cols-1 xl:grid-cols-2 gap-[2em] w-full flex-1">
+            @* first card *@
+            <div
+                class=" w-full h-auto sm:h-[158px] bg-white px-3 lg:px-14 py-[30px] flex items-center  flex-wrap sm:flex-nowrap transition-all hover:scale-[1.02] durations-300 ease-in-out cursor-pointer  hover:shadow-lg rounded-lg  gap-[2em]">
+                <span class="material-symbols-outlined text-[55px] text-clef-primary">settings</span>
+                <div>
+                    <h1 class=" text-[22px] text-clef-primary font-[600] capitalize">Getting Started</h1>
+                    <p class="text-[15px] text-clef-paragraph ">Get started fast with installation and theme setup
+                        instructions.</p>
+                </div>
+            </div>
+            @* first card *@
+
+            @* second card *@
+            <NavLink href="Terms">
+                <div
+                    class="w-full h-auto sm:h-[158px] bg-white px-3 lg:px-14 py-[30px] flex items-center flex-wrap sm:flex-nowrap  transition-all hover:scale-[1.02] durations-300 ease-in-out cursor-pointer  hover:shadow-lg rounded-lg  gap-[2em]">
+                    <span class="material-symbols-outlined text-[55px] text-clef-primary">info</span>
+                    <div>
+                        <h1 class="text-[22px] text-clef-primary font-[600] capitalize">Terms</h1>
+                        <p class="text-[15px] text-clef-paragraph ">Get started fast with installation and theme setup
+                            instructions.</p>
+                    </div>
+                </div>
+            </NavLink>
+
+            @* second card *@
+
+            @* third card *@
+            <div
+                class="w-full h-auto sm:h-[158px] bg-white px-3 lg:px-14 py-[30px] flex items-center flex-wrap sm:flex-nowrap  transition-all hover:scale-[1.02] durations-300 ease-in-out cursor-pointer  hover:shadow-lg rounded-lg  gap-[2em]">
+                <span class="material-symbols-outlined text-[55px] text-clef-primary">play_circle</span>
+                <div>
+                    <h1 class="text-[22px] text-clef-primary font-[600] capitalize">video tutorials</h1>
+                    <p class="text-[15px] text-clef-paragraph ">Get started fast with installation and theme setup
+                        instructions.</p>
+                </div>
+            </div>
+            @* third card *@
+
+
+            @* fourth card *@
+            <NavLink href="ContactUs">
+                <div
+                    class="w-full h-auto sm:h-[158px] bg-white px-3 lg:px-14 py-[30px] flex items-center flex-wrap sm:flex-nowrap  transition-all hover:scale-[1.02] durations-300 ease-in-out cursor-pointer  hover:shadow-lg rounded-lg  gap-[2em]">
+                    <span class="material-symbols-outlined text-[55px] text-clef-primary">sms</span>
+                    <div>
+                        <h1 class="text-[22px] text-clef-primary font-[600] capitalize">contact us</h1>
+                        <p class="text-[15px] text-clef-paragraph ">Get started fast with installation and theme setup
+                            instructions.</p>
+                    </div>
+                </div>
+            </NavLink>
+
+            @* fourth card *@
+
+
+        </div>
+        @* contents card end *@
+
+        @* content accordian start *@
+        <div>
+            <HelpCenterAccordian />
+        </div>
+        @* content accordian start *@
+
+    </div>
+</section>

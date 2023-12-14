@@ -1,0 +1,19 @@
+<section class="h-[240px] bg-clef-primary">
+    <HelpCenterNavbar />
+
+    @* content start *@
+    <div class=" w-[60%] mx-auto h-full">
+        <div class=" flex items-center justify-center  pt-[60px] ">
+            <div class="w-full">
+                <h1 class="text-white text-[25px] lg:text-[30px] font-[600] text-center">@Message</h1>
+            </div>
+        </div>
+    </div>
+    @* content end *@
+
+</section>
+
+@code{
+    [Parameter]
+    public string? Message { get; set; }
+}

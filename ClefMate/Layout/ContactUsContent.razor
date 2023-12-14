@@ -1,0 +1,68 @@
+<section class="h-auto bg-clef-banner-bg py-[50px]">
+    <div class="w-[95%] xl:w-[60%] mx-auto h-full">
+        <div class="w-full h-auto bg-white px-[20px] lg:px-[100px] xl:px-[200px] py-[50px] mx-auto">
+            <h1 class="text-clef-primary text-[29px] font-[400] capitalize">Got Any Questions?</h1>
+            <p class="tect-clef-paragraph text-[17px] mt-[20px]">Curious about something? Reach out! We're here to assist and answer any queries you might have regarding our hotel services</p>
+
+            @* form start *@
+            <form action="" class="mt-[40px]">
+                @* name *@
+                <div class="flex flex-col gap-[0.3em] mb-[20px]">
+                    <label for="name" class="text-[14px] text-clef-primary capitalize">name</label>
+                    <input   type="text" class=" rounded-[5px]  focus:outline-none focus:border-clef-primary focus:ring-1 focus:ring-clef-primary ">
+                </div>
+                @* name *@
+
+                  @* email *@
+                <div class="flex flex-col gap-[0.3em] mb-[20px]">
+                    <label for="email" class="text-[14px] text-clef-primary capitalize">email</label>
+                    <input   type="email" class=" rounded-[5px]  focus:outline-none focus:border-clef-primary focus:ring-1 focus:ring-clef-primary ">
+                </div>
+                @* email *@
+
+                 @* subject *@
+                <div class="flex flex-col gap-[0.3em] mb-[20px]">
+                    <label for="subject" class="text-[14px] text-clef-primary capitalize">subject</label>
+                    <input   type="text" class=" rounded-[5px]  focus:outline-none focus:border-clef-primary focus:ring-1 focus:ring-clef-primary ">
+                </div>
+                @* subject *@
+
+                
+                @* textarea *@
+                <div class="flex flex-col gap-[0.3em] mb-[24px]">
+                    <label for="message" class="text-[14px] text-clef-primary capitalize">message</label>
+                    <textarea class=" rounded-[5px]  focus:outline-none focus:border-clef-primary focus:ring-1 focus:ring-clef-primary" name="" id="" cols="30" rows="5"></textarea>
+                </div>
+                @* textarea *@
+            </form>
+            @* form end *@
+
+            @* btn *@
+             <div class="h-[45px] rounded-[5px] w-[150px] border border-clef-primary flex items-center justify-center text-clef-primary hover:bg-clef-primary hover:text-clef-white cursor-pointer   mx-auto capitalize transition-all  duration-200 ease"> send message</div>
+            @* btn *@
+        </div>
+    </div>
+</section>
+
+
+
+
+
+
+<style> 
+     #myinput{
+        outline: none;
+        padding: 0 10px;
+        background: none;
+        
+    background: #fff;
+    color: #67607c;
+    border: 1px solid #dad4ee;
+    }
+
+
+
+    #myinput:focus{
+        outline: none;
+    }
+</style>

@@ -1,0 +1,85 @@
+ <section  class="bg-clef-banner-bg h-screen flex items-center justify-center">
+   <div class=" container mx-auto">
+    <div class="flex items-center justify-center h-full">
+        <div class=" w-full lg:w-[33%] bg-white py-8 px-8 flex  rounded-lg shadow-md flex-col">
+            <!-- logo -->
+             <NavLink class="nav-link" href="">
+                            <img class="w-[70] h-[40px] mx-auto my-5 cursor-pointer" src="../../images/logo/logo.png" alt="">
+
+            </NavLink>
+              <!-- logo -->
+              <!-- text -->
+               <div>
+                <h4 class="font-bold text-[20px] text-clef-primary  mb-3">Welcome back! 👋🏻</h4>
+                <p class="text-[15px] text-clef-paragraph">Please sign-in to your account and start the adventure</p>
+               </div>
+               <!-- text -->
+               <!-- input sec -->
+                   <div class="mt-8">
+                    <div id="inputBox" class="relative mb-7">
+                        <input id="inputData" class="pl-3 w-full h-[50px] border-gray-200 border  rounded-[8px] focus:outline-none"  type="text">
+                        <div id="inputText" class="absolute bg-white transition-all duration-300 ease-out top-[14px] left-[14px] text-[15px] text-clef-heading font-[500] capitalize">email</div>
+                    </div>
+                    <div id="inputBox" class="relative mb-7">
+                        <input id="inputData" class="pl-3 w-full h-[50px] border-gray-200 border  rounded-[8px] focus:outline-none"  type="text">
+                        <div id="inputText" class="absolute bg-white transition-all duration-300 ease-out top-[14px] left-[14px] text-[15px] text-clef-heading font-[500] capitalize">password</div>
+                    </div>
+                   </div>
+                     <!-- input sec -->
+                     <div class="flex items-center justify-between mb-7">
+                        <div class="flex items-center gap-2">
+                            <input class="w-[16px] checked:bg-clef-primary h-[16px]" type="checkbox" >
+                            <h1 class="capitalize text-[14px] text-clef-paragraph font-medium">remember me</h1>
+                        </div>
+                          <h2 style="font-size: 14px;" class="capitalize font-[600] text-clef-primary">forget password</h2>
+                     </div>
+
+                     <!-- bnt -->
+                     <button class="h-[50px] w-full border border-gray-200 rounded-[8px] flex items-center justify-center hover:border-clef-primary capitalize hover:text-clef-primary transition-all duration-300 ease text-clef-heading font-bold">Login</button>
+                     <!-- bnt -->
+
+                     <div class="flex items-center justify-center gap-3 mt-7">
+                        <h1 class="text-clef-heading text-[14px] font-[600]">New on our platform?</h1>
+                        <h2 class="text-clef-primary text-[14px] font-[600] ">Create An Account</h2>
+                     </div>
+              
+        </div>
+    </div>
+</div>
+</section>
+
+
+<script>
+const inputBox = document.querySelectorAll('#inputBox')
+
+
+
+const handleMovablePlaceholder = (element) => {
+    const firstChild = element.firstElementChild
+    const lastChild = element.lastElementChild
+    const childClastList = lastChild.classList
+    const containTopElement = childClastList.contains('top-[14px]')
+    if(containTopElement) {
+        childClastList.remove('top-[14px]')
+        lastChild.style.top = '-10px'
+    }
+
+    const handleInputChange = (event) => {
+        const value = event.target.value
+        if(value === '') {
+            lastChild.style.top = '14px'
+        }else {
+            lastChild.style.top = '-10px'
+        }
+    }
+
+    
+    firstChild.addEventListener('input',handleInputChange)
+}
+
+inputBox.forEach((element) => {
+    element.addEventListener('click', () => {handleMovablePlaceholder(element)})
+})
+
+
+</script>

@@ -1,0 +1,273 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\PROJECT-FOLDER\\Work-Folder\\Blazor-app\\ClefMate\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "D:\\PROJECT-FOLDER\\Work-Folder\\Blazor-app\\ClefMate\\obj\\Debug\\net8.0\\compressed\\0jd2gt8hkm.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "D:\\PROJECT-FOLDER\\Work-Folder\\Blazor-app\\ClefMate\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "D:\\PROJECT-FOLDER\\Work-Folder\\Blazor-app\\ClefMate\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "D:\\PROJECT-FOLDER\\Work-Folder\\Blazor-app\\ClefMate\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "D:\\PROJECT-FOLDER\\Work-Folder\\Blazor-app\\ClefMate\\wwwroot\\images\\Bussines\\one.webp",
+      "PackagePath": "staticwebassets\\images\\Bussines\\one.webp"
+    },
+    {
+      "Id": "D:\\PROJECT-FOLDER\\Work-Folder\\Blazor-app\\ClefMate\\wwwroot\\images\\Bussines\\three.webp",
+      "PackagePath": "staticwebassets\\images\\Bussines\\three.webp"
+    },
+    {
+      "Id": "D:\\PROJECT-FOLDER\\Work-Folder\\Blazor-app\\ClefMate\\wwwroot\\images\\Bussines\\two.webp",
+      "PackagePath": "staticwebassets\\images\\Bussines\\two.webp"
+    },
+    {
+      "Id": "D:\\PROJECT-FOLDER\\Work-Folder\\Blazor-app\\ClefMate\\wwwroot\\images\\Features\\accounting.svg",
+      "PackagePath": "staticwebassets\\images\\Features\\accounting.svg"
+    },
+    {
+      "Id": "D:\\PROJECT-FOLDER\\Work-Folder\\Blazor-app\\ClefMate\\wwwroot\\images\\Features\\cheques.svg",
+      "PackagePath": "staticwebassets\\images\\Features\\cheques.svg"
+    },
+    {
+      "Id": "D:\\PROJECT-FOLDER\\Work-Folder\\Blazor-app\\ClefMate\\wwwroot\\images\\Features\\clients.svg",
+      "PackagePath": "staticwebassets\\images\\Features\\clients.svg"
+    },
+    {
+      "Id": "D:\\PROJECT-FOLDER\\Work-Folder\\Blazor-app\\ClefMate\\wwwroot\\images\\Features\\employees.svg",
+      "PackagePath": "staticwebassets\\images\\Features\\employees.svg"
+    },
+    {
+      "Id": "D:\\PROJECT-FOLDER\\Work-Folder\\Blazor-app\\ClefMate\\wwwroot\\images\\Features\\expenses.svg",
+      "PackagePath": "staticwebassets\\images\\Features\\expenses.svg"
+    },
+    {
+      "Id": "D:\\PROJECT-FOLDER\\Work-Folder\\Blazor-app\\ClefMate\\wwwroot\\images\\Features\\finance.svg",
+      "PackagePath": "staticwebassets\\images\\Features\\finance.svg"
+    },
+    {
+      "Id": "D:\\PROJECT-FOLDER\\Work-Folder\\Blazor-app\\ClefMate\\wwwroot\\images\\Features\\invoicing.svg",
+      "PackagePath": "staticwebassets\\images\\Features\\invoicing.svg"
+    },
+    {
+      "Id": "D:\\PROJECT-FOLDER\\Work-Folder\\Blazor-app\\ClefMate\\wwwroot\\images\\Features\\phone.webp",
+      "PackagePath": "staticwebassets\\images\\Features\\phone.webp"
+    },
+    {
+      "Id": "D:\\PROJECT-FOLDER\\Work-Folder\\Blazor-app\\ClefMate\\wwwroot\\images\\Features\\quotes.svg",
+      "PackagePath": "staticwebassets\\images\\Features\\quotes.svg"
+    },
+    {
+      "Id": "D:\\PROJECT-FOLDER\\Work-Folder\\Blazor-app\\ClefMate\\wwwroot\\images\\Features\\reports.svg",
+      "PackagePath": "staticwebassets\\images\\Features\\reports.svg"
+    },
+    {
+      "Id": "D:\\PROJECT-FOLDER\\Work-Folder\\Blazor-app\\ClefMate\\wwwroot\\images\\Icons\\accounting.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\accounting.png"
+    },
+    {
+      "Id": "D:\\PROJECT-FOLDER\\Work-Folder\\Blazor-app\\ClefMate\\wwwroot\\images\\Icons\\cheque.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\cheque.png"
+    },
+    {
+      "Id": "D:\\PROJECT-FOLDER\\Work-Folder\\Blazor-app\\ClefMate\\wwwroot\\images\\Icons\\diamond.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\diamond.png"
+    },
+    {
+      "Id": "D:\\PROJECT-FOLDER\\Work-Folder\\Blazor-app\\ClefMate\\wwwroot\\images\\Icons\\email.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\email.png"
+    },
+    {
+      "Id": "D:\\PROJECT-FOLDER\\Work-Folder\\Blazor-app\\ClefMate\\wwwroot\\images\\Icons\\employee.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\employee.png"
+    },
+    {
+      "Id": "D:\\PROJECT-FOLDER\\Work-Folder\\Blazor-app\\ClefMate\\wwwroot\\images\\Icons\\envelope.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\envelope.png"
+    },
+    {
+      "Id": "D:\\PROJECT-FOLDER\\Work-Folder\\Blazor-app\\ClefMate\\wwwroot\\images\\Icons\\hand.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\hand.png"
+    },
+    {
+      "Id": "D:\\PROJECT-FOLDER\\Work-Folder\\Blazor-app\\ClefMate\\wwwroot\\images\\Icons\\invoice.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\invoice.png"
+    },
+    {
+      "Id": "D:\\PROJECT-FOLDER\\Work-Folder\\Blazor-app\\ClefMate\\wwwroot\\images\\Icons\\pie-chart.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\pie-chart.png"
+    },
+    {
+      "Id": "D:\\PROJECT-FOLDER\\Work-Folder\\Blazor-app\\ClefMate\\wwwroot\\images\\Icons\\pie.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\pie.png"
+    },
+    {
+      "Id": "D:\\PROJECT-FOLDER\\Work-Folder\\Blazor-app\\ClefMate\\wwwroot\\images\\Icons\\public-relation.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\public-relation.png"
+    },
+    {
+      "Id": "D:\\PROJECT-FOLDER\\Work-Folder\\Blazor-app\\ClefMate\\wwwroot\\images\\Icons\\quotation.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\quotation.png"
+    },
+    {
+      "Id": "D:\\PROJECT-FOLDER\\Work-Folder\\Blazor-app\\ClefMate\\wwwroot\\images\\Icons\\report.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\report.png"
+    },
+    {
+      "Id": "D:\\PROJECT-FOLDER\\Work-Folder\\Blazor-app\\ClefMate\\wwwroot\\images\\Icons\\rocket.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\rocket.png"
+    },
+    {
+      "Id": "D:\\PROJECT-FOLDER\\Work-Folder\\Blazor-app\\ClefMate\\wwwroot\\images\\Question\\card1.webp",
+      "PackagePath": "staticwebassets\\images\\Question\\card1.webp"
+    },
+    {
+      "Id": "D:\\PROJECT-FOLDER\\Work-Folder\\Blazor-app\\ClefMate\\wwwroot\\images\\Question\\card2.webp",
+      "PackagePath": "staticwebassets\\images\\Question\\card2.webp"
+    },
+    {
+      "Id": "D:\\PROJECT-FOLDER\\Work-Folder\\Blazor-app\\ClefMate\\wwwroot\\images\\Question\\card3.webp",
+      "PackagePath": "staticwebassets\\images\\Question\\card3.webp"
+    },
+    {
+      "Id": "D:\\PROJECT-FOLDER\\Work-Folder\\Blazor-app\\ClefMate\\wwwroot\\images\\Question\\image.webp",
+      "PackagePath": "staticwebassets\\images\\Question\\image.webp"
+    },
+    {
+      "Id": "D:\\PROJECT-FOLDER\\Work-Folder\\Blazor-app\\ClefMate\\wwwroot\\images\\banner\\Banner.webp",
+      "PackagePath": "staticwebassets\\images\\banner\\Banner.webp"
+    },
+    {
+      "Id": "D:\\PROJECT-FOLDER\\Work-Folder\\Blazor-app\\ClefMate\\wwwroot\\images\\banner\\Phone.webp",
+      "PackagePath": "staticwebassets\\images\\banner\\Phone.webp"
+    },
+    {
+      "Id": "D:\\PROJECT-FOLDER\\Work-Folder\\Blazor-app\\ClefMate\\wwwroot\\images\\banner\\Price.webp",
+      "PackagePath": "staticwebassets\\images\\banner\\Price.webp"
+    },
+    {
+      "Id": "D:\\PROJECT-FOLDER\\Work-Folder\\Blazor-app\\ClefMate\\wwwroot\\images\\banner\\SVg.webp",
+      "PackagePath": "staticwebassets\\images\\banner\\SVg.webp"
+    },
+    {
+      "Id": "D:\\PROJECT-FOLDER\\Work-Folder\\Blazor-app\\ClefMate\\wwwroot\\images\\banner\\dashboard.webp",
+      "PackagePath": "staticwebassets\\images\\banner\\dashboard.webp"
+    },
+    {
+      "Id": "D:\\PROJECT-FOLDER\\Work-Folder\\Blazor-app\\ClefMate\\wwwroot\\images\\banner\\dashbord.jpg",
+      "PackagePath": "staticwebassets\\images\\banner\\dashbord.jpg"
+    },
+    {
+      "Id": "D:\\PROJECT-FOLDER\\Work-Folder\\Blazor-app\\ClefMate\\wwwroot\\images\\banner\\pricing.webp",
+      "PackagePath": "staticwebassets\\images\\banner\\pricing.webp"
+    },
+    {
+      "Id": "D:\\PROJECT-FOLDER\\Work-Folder\\Blazor-app\\ClefMate\\wwwroot\\images\\banner\\uk.webp",
+      "PackagePath": "staticwebassets\\images\\banner\\uk.webp"
+    },
+    {
+      "Id": "D:\\PROJECT-FOLDER\\Work-Folder\\Blazor-app\\ClefMate\\wwwroot\\images\\banner\\wave.svg",
+      "PackagePath": "staticwebassets\\images\\banner\\wave.svg"
+    },
+    {
+      "Id": "D:\\PROJECT-FOLDER\\Work-Folder\\Blazor-app\\ClefMate\\wwwroot\\images\\banner\\waveB.svg",
+      "PackagePath": "staticwebassets\\images\\banner\\waveB.svg"
+    },
+    {
+      "Id": "D:\\PROJECT-FOLDER\\Work-Folder\\Blazor-app\\ClefMate\\wwwroot\\images\\banner\\waves.svg",
+      "PackagePath": "staticwebassets\\images\\banner\\waves.svg"
+    },
+    {
+      "Id": "D:\\PROJECT-FOLDER\\Work-Folder\\Blazor-app\\ClefMate\\wwwroot\\images\\collabration\\Reservation.jpg",
+      "PackagePath": "staticwebassets\\images\\collabration\\Reservation.jpg"
+    },
+    {
+      "Id": "D:\\PROJECT-FOLDER\\Work-Folder\\Blazor-app\\ClefMate\\wwwroot\\images\\collabration\\collabrate.webp",
+      "PackagePath": "staticwebassets\\images\\collabration\\collabrate.webp"
+    },
+    {
+      "Id": "D:\\PROJECT-FOLDER\\Work-Folder\\Blazor-app\\ClefMate\\wwwroot\\images\\footer\\logo_band_white@2x.png",
+      "PackagePath": "staticwebassets\\images\\footer\\logo_band_white@2x.png"
+    },
+    {
+      "Id": "D:\\PROJECT-FOLDER\\Work-Folder\\Blazor-app\\ClefMate\\wwwroot\\images\\logo\\logo (1).webp",
+      "PackagePath": "staticwebassets\\images\\logo\\logo (1).webp"
+    },
+    {
+      "Id": "D:\\PROJECT-FOLDER\\Work-Folder\\Blazor-app\\ClefMate\\wwwroot\\images\\logo\\logo-2.png",
+      "PackagePath": "staticwebassets\\images\\logo\\logo-2.png"
+    },
+    {
+      "Id": "D:\\PROJECT-FOLDER\\Work-Folder\\Blazor-app\\ClefMate\\wwwroot\\images\\logo\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo\\logo.png"
+    },
+    {
+      "Id": "D:\\PROJECT-FOLDER\\Work-Folder\\Blazor-app\\ClefMate\\wwwroot\\images\\logo\\logo.webp",
+      "PackagePath": "staticwebassets\\images\\logo\\logo.webp"
+    },
+    {
+      "Id": "D:\\PROJECT-FOLDER\\Work-Folder\\Blazor-app\\ClefMate\\wwwroot\\images\\logo\\zetblog-logo.svg",
+      "PackagePath": "staticwebassets\\images\\logo\\zetblog-logo.svg"
+    },
+    {
+      "Id": "D:\\PROJECT-FOLDER\\Work-Folder\\Blazor-app\\ClefMate\\wwwroot\\images\\services\\Interface.jpg",
+      "PackagePath": "staticwebassets\\images\\services\\Interface.jpg"
+    },
+    {
+      "Id": "D:\\PROJECT-FOLDER\\Work-Folder\\Blazor-app\\ClefMate\\wwwroot\\images\\services\\Invoice.jpg",
+      "PackagePath": "staticwebassets\\images\\services\\Invoice.jpg"
+    },
+    {
+      "Id": "D:\\PROJECT-FOLDER\\Work-Folder\\Blazor-app\\ClefMate\\wwwroot\\images\\services\\b1.webp",
+      "PackagePath": "staticwebassets\\images\\services\\b1.webp"
+    },
+    {
+      "Id": "D:\\PROJECT-FOLDER\\Work-Folder\\Blazor-app\\ClefMate\\wwwroot\\images\\services\\b2.webp",
+      "PackagePath": "staticwebassets\\images\\services\\b2.webp"
+    },
+    {
+      "Id": "D:\\PROJECT-FOLDER\\Work-Folder\\Blazor-app\\ClefMate\\wwwroot\\images\\services\\b3.webp",
+      "PackagePath": "staticwebassets\\images\\services\\b3.webp"
+    },
+    {
+      "Id": "D:\\PROJECT-FOLDER\\Work-Folder\\Blazor-app\\ClefMate\\wwwroot\\images\\services\\devices.svg",
+      "PackagePath": "staticwebassets\\images\\services\\devices.svg"
+    },
+    {
+      "Id": "D:\\PROJECT-FOLDER\\Work-Folder\\Blazor-app\\ClefMate\\wwwroot\\images\\subscribe\\subimage.webp",
+      "PackagePath": "staticwebassets\\images\\subscribe\\subimage.webp"
+    },
+    {
+      "Id": "D:\\PROJECT-FOLDER\\Work-Folder\\Blazor-app\\ClefMate\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ClefMate.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ClefMate.props",
+      "PackagePath": "build\\ClefMate.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ClefMate.props",
+      "PackagePath": "buildMultiTargeting\\ClefMate.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ClefMate.props",
+      "PackagePath": "buildTransitive\\ClefMate.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

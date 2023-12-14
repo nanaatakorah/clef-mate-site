@@ -1,0 +1,22 @@
+<section class="h-auto pb-[20px] bg-clef-primary">
+    <HelpCenterNavbar />
+
+    @* content start *@
+    <div class=" w-[60%] mx-auto h-full">
+        <div class=" flex items-center justify-center  pt-[60px] ">
+            <div class="w-full">
+                <h1 class="text-white text-[25px] lg:text-[30px] font-[600] text-center">@Message</h1>
+                <p  class="text-white text-[16px] text-white text-center mt-2">Managing a hotel is not a small feat and doing this manually can be very demanding as well as time consuming experience. This is why using our dedicate and profesional hotel management
+                   system will offer you a great reliabel way to take complete control over the way hotel works and you can also use this to grow your hotel unlike never before.   
+                </p>
+            </div>
+        </div>
+    </div>
+    @* content end *@
+
+</section>
+
+@code{
+    [Parameter]
+    public string? Message { get; set; }
+}

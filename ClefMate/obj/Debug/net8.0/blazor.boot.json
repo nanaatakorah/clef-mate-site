@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "ClefMate",
   "resources": {
-    "hash": "sha256-b816btlsePElr8NsHLaNDeGxfQnofi4rLFL/K3imPcg=",
+    "hash": "sha256-xlNxUMheaQod7/xquk+zmhU4o5ZMdPev+q/gGggenXk=",
     "jsModuleNative": {
       "dotnet.native.8.0.0.6tcy1wf46z.js": "sha256-LjLDIz9+J7uuiwMlQ4HbNx2BnSpphOtO2MwkoI28vdI="
     },
@@ -208,10 +208,10 @@
       "mscorlib.wasm": "sha256-cDuLeL3OCtVtiid/dyex1MVgbuzDSRwZxKzuP2Dp4mg=",
       "netstandard.wasm": "sha256-A0h86SDieTMoU/wU2JTszWCsUmMuguDcbap0b0BzsmI=",
       "System.Private.CoreLib.wasm": "sha256-/0DNIm/T0C07X7Tuz5uR8JvVCoAfEE2MnfPUSjyS9xc=",
-      "ClefMate.wasm": "sha256-bfZGp4LD8LpiFQYEkK+qtYCK9fI+M0fnxfgSB59f57s="
+      "ClefMate.wasm": "sha256-jVt9mGLciin3ns/J+AmbQCLooMPCCr2nlQqEHI3uTGQ="
     },
     "pdb": {
-      "ClefMate.pdb": "sha256-OD09UD9cGK2VF6xNFlj8wRUoCLSpMmfRwtw5nYKZWp8="
+      "ClefMate.pdb": "sha256-A1eNKwAY8DEJx6G+WqbzDIgRHz4X7Am/aOcdu7jo/i4="
     }
   },
   "cacheBootResources": true,

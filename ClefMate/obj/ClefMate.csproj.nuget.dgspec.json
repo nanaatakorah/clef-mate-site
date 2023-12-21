@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PROJECT-FOLDER\\Work-Folder\\Blazor-app\\ClefMate\\ClefMate.csproj": {}
+    "D:\\PROJECT-FOLDER\\Work-Folder\\clef-mate-site\\ClefMate\\ClefMate.csproj": {}
   },
   "projects": {
-    "D:\\PROJECT-FOLDER\\Work-Folder\\Blazor-app\\ClefMate\\ClefMate.csproj": {
+    "D:\\PROJECT-FOLDER\\Work-Folder\\clef-mate-site\\ClefMate\\ClefMate.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PROJECT-FOLDER\\Work-Folder\\Blazor-app\\ClefMate\\ClefMate.csproj",
+        "projectUniqueName": "D:\\PROJECT-FOLDER\\Work-Folder\\clef-mate-site\\ClefMate\\ClefMate.csproj",
         "projectName": "ClefMate",
-        "projectPath": "D:\\PROJECT-FOLDER\\Work-Folder\\Blazor-app\\ClefMate\\ClefMate.csproj",
+        "projectPath": "D:\\PROJECT-FOLDER\\Work-Folder\\clef-mate-site\\ClefMate\\ClefMate.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "D:\\PROJECT-FOLDER\\Work-Folder\\Blazor-app\\ClefMate\\obj\\",
+        "outputPath": "D:\\PROJECT-FOLDER\\Work-Folder\\clef-mate-site\\ClefMate\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config"

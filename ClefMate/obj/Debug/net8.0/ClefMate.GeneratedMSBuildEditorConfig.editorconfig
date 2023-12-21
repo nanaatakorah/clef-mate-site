@@ -13,183 +13,259 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = browser
 build_property.RootNamespace = ClefMate
 build_property.RootNamespace = ClefMate
-build_property.ProjectDir = D:\PROJECT-FOLDER\Work-Folder\Blazor-app\ClefMate\
+build_property.ProjectDir = D:\PROJECT-FOLDER\Work-Folder\clef-mate-site\ClefMate\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = false
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\PROJECT-FOLDER\Work-Folder\Blazor-app\ClefMate
+build_property.MSBuildProjectDirectory = D:\PROJECT-FOLDER\Work-Folder\clef-mate-site\ClefMate
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/PROJECT-FOLDER/Work-Folder/Blazor-app/ClefMate/App.razor]
+[D:/PROJECT-FOLDER/Work-Folder/clef-mate-site/ClefMate/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PROJECT-FOLDER/Work-Folder/Blazor-app/ClefMate/Layout/Accordian.razor]
-build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XEFjY29yZGlhbi5yYXpvcg==
+[D:/PROJECT-FOLDER/Work-Folder/clef-mate-site/ClefMate/Component/Clients/Clientsbanner.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50XENsaWVudHNcQ2xpZW50c2Jhbm5lci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PROJECT-FOLDER/Work-Folder/Blazor-app/ClefMate/Layout/BannerComp.razor]
-build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XEJhbm5lckNvbXAucmF6b3I=
+[D:/PROJECT-FOLDER/Work-Folder/clef-mate-site/ClefMate/Component/Clients/ClientsContent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50XENsaWVudHNcQ2xpZW50c0NvbnRlbnQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PROJECT-FOLDER/Work-Folder/Blazor-app/ClefMate/Layout/BlogComp.razor]
-build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XEJsb2dDb21wLnJhem9y
+[D:/PROJECT-FOLDER/Work-Folder/clef-mate-site/ClefMate/Component/ContactUs/ContactUsBanner.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50XENvbnRhY3RVc1xDb250YWN0VXNCYW5uZXIucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PROJECT-FOLDER/Work-Folder/Blazor-app/ClefMate/Layout/CollabrationComp.razor]
-build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XENvbGxhYnJhdGlvbkNvbXAucmF6b3I=
+[D:/PROJECT-FOLDER/Work-Folder/clef-mate-site/ClefMate/Component/ContactUs/ContactUsContent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50XENvbnRhY3RVc1xDb250YWN0VXNDb250ZW50LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PROJECT-FOLDER/Work-Folder/Blazor-app/ClefMate/Layout/ContactUsContent.razor]
-build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XENvbnRhY3RVc0NvbnRlbnQucmF6b3I=
+[D:/PROJECT-FOLDER/Work-Folder/clef-mate-site/ClefMate/Component/FAQ/Accordian.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50XEZBUVxBY2NvcmRpYW4ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PROJECT-FOLDER/Work-Folder/Blazor-app/ClefMate/Layout/DefineAnsweComp.razor]
-build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XERlZmluZUFuc3dlQ29tcC5yYXpvcg==
+[D:/PROJECT-FOLDER/Work-Folder/clef-mate-site/ClefMate/Component/FAQ/DefineAnsweComp.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50XEZBUVxEZWZpbmVBbnN3ZUNvbXAucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PROJECT-FOLDER/Work-Folder/Blazor-app/ClefMate/Layout/FAQAccordian.razor]
-build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XEZBUUFjY29yZGlhbi5yYXpvcg==
+[D:/PROJECT-FOLDER/Work-Folder/clef-mate-site/ClefMate/Component/FAQ/FAQAccordian.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50XEZBUVxGQVFBY2NvcmRpYW4ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PROJECT-FOLDER/Work-Folder/Blazor-app/ClefMate/Layout/FAQBanner.razor]
-build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XEZBUUJhbm5lci5yYXpvcg==
+[D:/PROJECT-FOLDER/Work-Folder/clef-mate-site/ClefMate/Component/FAQ/FAQBanner.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50XEZBUVxGQVFCYW5uZXIucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PROJECT-FOLDER/Work-Folder/Blazor-app/ClefMate/Layout/FaqComp.razor]
-build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XEZhcUNvbXAucmF6b3I=
+[D:/PROJECT-FOLDER/Work-Folder/clef-mate-site/ClefMate/Component/Features/FeaturesBanner.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50XEZlYXR1cmVzXEZlYXR1cmVzQmFubmVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PROJECT-FOLDER/Work-Folder/Blazor-app/ClefMate/Layout/FeaturesBanner.razor]
-build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XEZlYXR1cmVzQmFubmVyLnJhem9y
+[D:/PROJECT-FOLDER/Work-Folder/clef-mate-site/ClefMate/Component/Features/FeaturesCards.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50XEZlYXR1cmVzXEZlYXR1cmVzQ2FyZHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PROJECT-FOLDER/Work-Folder/Blazor-app/ClefMate/Layout/FeaturesCards.razor]
-build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XEZlYXR1cmVzQ2FyZHMucmF6b3I=
+[D:/PROJECT-FOLDER/Work-Folder/clef-mate-site/ClefMate/Component/Features/FeaturesComp.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50XEZlYXR1cmVzXEZlYXR1cmVzQ29tcC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PROJECT-FOLDER/Work-Folder/Blazor-app/ClefMate/Layout/FeaturesComp.razor]
-build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XEZlYXR1cmVzQ29tcC5yYXpvcg==
+[D:/PROJECT-FOLDER/Work-Folder/clef-mate-site/ClefMate/Component/Features/FeaturesContent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50XEZlYXR1cmVzXEZlYXR1cmVzQ29udGVudC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PROJECT-FOLDER/Work-Folder/Blazor-app/ClefMate/Layout/FeaturesContent.razor]
-build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XEZlYXR1cmVzQ29udGVudC5yYXpvcg==
+[D:/PROJECT-FOLDER/Work-Folder/clef-mate-site/ClefMate/Component/Features/FeaturesPropBanner.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50XEZlYXR1cmVzXEZlYXR1cmVzUHJvcEJhbm5lci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PROJECT-FOLDER/Work-Folder/Blazor-app/ClefMate/Layout/FeaturesPropBanner.razor]
-build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XEZlYXR1cmVzUHJvcEJhbm5lci5yYXpvcg==
+[D:/PROJECT-FOLDER/Work-Folder/clef-mate-site/ClefMate/Component/HelpCenter/Accordian.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50XEhlbHBDZW50ZXJcQWNjb3JkaWFuLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PROJECT-FOLDER/Work-Folder/Blazor-app/ClefMate/Layout/FooterComp.razor]
-build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XEZvb3RlckNvbXAucmF6b3I=
+[D:/PROJECT-FOLDER/Work-Folder/clef-mate-site/ClefMate/Component/HelpCenter/DefineAnsweComp.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50XEhlbHBDZW50ZXJcRGVmaW5lQW5zd2VDb21wLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PROJECT-FOLDER/Work-Folder/Blazor-app/ClefMate/Layout/HelpCenterAccordian.razor]
-build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XEhlbHBDZW50ZXJBY2NvcmRpYW4ucmF6b3I=
+[D:/PROJECT-FOLDER/Work-Folder/clef-mate-site/ClefMate/Component/HelpCenter/HelpCenterAccordian.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50XEhlbHBDZW50ZXJcSGVscENlbnRlckFjY29yZGlhbi5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PROJECT-FOLDER/Work-Folder/Blazor-app/ClefMate/Layout/HelpCenterBanner.razor]
-build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XEhlbHBDZW50ZXJCYW5uZXIucmF6b3I=
+[D:/PROJECT-FOLDER/Work-Folder/clef-mate-site/ClefMate/Component/HelpCenter/HelpCenterBanner.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50XEhlbHBDZW50ZXJcSGVscENlbnRlckJhbm5lci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PROJECT-FOLDER/Work-Folder/Blazor-app/ClefMate/Layout/HelpCenterContent.razor]
-build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XEhlbHBDZW50ZXJDb250ZW50LnJhem9y
+[D:/PROJECT-FOLDER/Work-Folder/clef-mate-site/ClefMate/Component/HelpCenter/HelpCenterContent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50XEhlbHBDZW50ZXJcSGVscENlbnRlckNvbnRlbnQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PROJECT-FOLDER/Work-Folder/Blazor-app/ClefMate/Layout/HelpCenterFooter.razor]
-build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XEhlbHBDZW50ZXJGb290ZXIucmF6b3I=
+[D:/PROJECT-FOLDER/Work-Folder/clef-mate-site/ClefMate/Component/HelpCenter/HelpCenterFooter.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50XEhlbHBDZW50ZXJcSGVscENlbnRlckZvb3Rlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PROJECT-FOLDER/Work-Folder/Blazor-app/ClefMate/Layout/HelpCenterNavbar.razor]
-build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XEhlbHBDZW50ZXJOYXZiYXIucmF6b3I=
+[D:/PROJECT-FOLDER/Work-Folder/clef-mate-site/ClefMate/Component/HelpCenter/HelpCenterNavbar.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50XEhlbHBDZW50ZXJcSGVscENlbnRlck5hdmJhci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PROJECT-FOLDER/Work-Folder/Blazor-app/ClefMate/Layout/InvestBanner.razor]
-build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XEludmVzdEJhbm5lci5yYXpvcg==
+[D:/PROJECT-FOLDER/Work-Folder/clef-mate-site/ClefMate/Component/HelpCenter/Home.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50XEhlbHBDZW50ZXJcSG9tZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PROJECT-FOLDER/Work-Folder/Blazor-app/ClefMate/Layout/Investcontent.razor]
-build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XEludmVzdGNvbnRlbnQucmF6b3I=
+[D:/PROJECT-FOLDER/Work-Folder/clef-mate-site/ClefMate/Component/Home/BannerComp.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50XEhvbWVcQmFubmVyQ29tcC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PROJECT-FOLDER/Work-Folder/Blazor-app/ClefMate/Layout/LoginComp.razor]
-build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XExvZ2luQ29tcC5yYXpvcg==
+[D:/PROJECT-FOLDER/Work-Folder/clef-mate-site/ClefMate/Component/Home/BlogComp.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50XEhvbWVcQmxvZ0NvbXAucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PROJECT-FOLDER/Work-Folder/Blazor-app/ClefMate/Layout/MainLayout.razor]
+[D:/PROJECT-FOLDER/Work-Folder/clef-mate-site/ClefMate/Component/Home/CollabrationComp.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50XEhvbWVcQ29sbGFicmF0aW9uQ29tcC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PROJECT-FOLDER/Work-Folder/clef-mate-site/ClefMate/Component/Home/DefineAnsweComp.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50XEhvbWVcRGVmaW5lQW5zd2VDb21wLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PROJECT-FOLDER/Work-Folder/clef-mate-site/ClefMate/Component/Home/FaqComp.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50XEhvbWVcRmFxQ29tcC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PROJECT-FOLDER/Work-Folder/clef-mate-site/ClefMate/Component/Home/HotelLogo.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50XEhvbWVcSG90ZWxMb2dvLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PROJECT-FOLDER/Work-Folder/clef-mate-site/ClefMate/Component/Home/SubscribeComp.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50XEhvbWVcU3Vic2NyaWJlQ29tcC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PROJECT-FOLDER/Work-Folder/clef-mate-site/ClefMate/Component/Invest/InvestBanner.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50XEludmVzdFxJbnZlc3RCYW5uZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PROJECT-FOLDER/Work-Folder/clef-mate-site/ClefMate/Component/Invest/Investcontent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50XEludmVzdFxJbnZlc3Rjb250ZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PROJECT-FOLDER/Work-Folder/clef-mate-site/ClefMate/Component/Login/LoginComp.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50XExvZ2luXExvZ2luQ29tcC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PROJECT-FOLDER/Work-Folder/clef-mate-site/ClefMate/Component/MainLayOut/FooterComp.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50XE1haW5MYXlPdXRcRm9vdGVyQ29tcC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PROJECT-FOLDER/Work-Folder/clef-mate-site/ClefMate/Component/MainLayOut/NavbarComp.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50XE1haW5MYXlPdXRcTmF2YmFyQ29tcC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PROJECT-FOLDER/Work-Folder/clef-mate-site/ClefMate/Component/Price/DefineAnsweComp.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50XFByaWNlXERlZmluZUFuc3dlQ29tcC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PROJECT-FOLDER/Work-Folder/clef-mate-site/ClefMate/Component/Price/PriceBanner.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50XFByaWNlXFByaWNlQmFubmVyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PROJECT-FOLDER/Work-Folder/clef-mate-site/ClefMate/Component/Price/PriceComp.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50XFByaWNlXFByaWNlQ29tcC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PROJECT-FOLDER/Work-Folder/clef-mate-site/ClefMate/Component/Price/PriceFaq.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50XFByaWNlXFByaWNlRmFxLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PROJECT-FOLDER/Work-Folder/clef-mate-site/ClefMate/Component/Price/PriceFeatures.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50XFByaWNlXFByaWNlRmVhdHVyZXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PROJECT-FOLDER/Work-Folder/clef-mate-site/ClefMate/Component/Price/PricePayment.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50XFByaWNlXFByaWNlUGF5bWVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PROJECT-FOLDER/Work-Folder/clef-mate-site/ClefMate/Component/PrivacyPolycy/DefineAnsweComp.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50XFByaXZhY3lQb2x5Y3lcRGVmaW5lQW5zd2VDb21wLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PROJECT-FOLDER/Work-Folder/clef-mate-site/ClefMate/Component/PrivacyPolycy/PrivacyBanner.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50XFByaXZhY3lQb2x5Y3lcUHJpdmFjeUJhbm5lci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PROJECT-FOLDER/Work-Folder/clef-mate-site/ClefMate/Component/PrivacyPolycy/PrivacyCotent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50XFByaXZhY3lQb2x5Y3lcUHJpdmFjeUNvdGVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PROJECT-FOLDER/Work-Folder/clef-mate-site/ClefMate/Component/Products/ProductBanner.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50XFByb2R1Y3RzXFByb2R1Y3RCYW5uZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PROJECT-FOLDER/Work-Folder/clef-mate-site/ClefMate/Component/Products/ProductsContent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50XFByb2R1Y3RzXFByb2R1Y3RzQ29udGVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PROJECT-FOLDER/Work-Folder/clef-mate-site/ClefMate/Component/Terms/DefineAnsweComp.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50XFRlcm1zXERlZmluZUFuc3dlQ29tcC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PROJECT-FOLDER/Work-Folder/clef-mate-site/ClefMate/Component/Terms/TermsBanner.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50XFRlcm1zXFRlcm1zQmFubmVyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PROJECT-FOLDER/Work-Folder/clef-mate-site/ClefMate/Component/Terms/TermsContent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50XFRlcm1zXFRlcm1zQ29udGVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PROJECT-FOLDER/Work-Folder/clef-mate-site/ClefMate/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PROJECT-FOLDER/Work-Folder/Blazor-app/ClefMate/Layout/NavbarComp.razor]
-build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE5hdmJhckNvbXAucmF6b3I=
+[D:/PROJECT-FOLDER/Work-Folder/clef-mate-site/ClefMate/Pages/Clients.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xpZW50cy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PROJECT-FOLDER/Work-Folder/Blazor-app/ClefMate/Layout/PriceBanner.razor]
-build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XFByaWNlQmFubmVyLnJhem9y
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/PROJECT-FOLDER/Work-Folder/Blazor-app/ClefMate/Layout/PriceComp.razor]
-build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XFByaWNlQ29tcC5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/PROJECT-FOLDER/Work-Folder/Blazor-app/ClefMate/Layout/PriceFaq.razor]
-build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XFByaWNlRmFxLnJhem9y
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/PROJECT-FOLDER/Work-Folder/Blazor-app/ClefMate/Layout/PriceFeatures.razor]
-build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XFByaWNlRmVhdHVyZXMucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/PROJECT-FOLDER/Work-Folder/Blazor-app/ClefMate/Layout/PricePayment.razor]
-build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XFByaWNlUGF5bWVudC5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/PROJECT-FOLDER/Work-Folder/Blazor-app/ClefMate/Layout/SubscribeComp.razor]
-build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XFN1YnNjcmliZUNvbXAucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/PROJECT-FOLDER/Work-Folder/Blazor-app/ClefMate/Layout/TermsContent.razor]
-build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XFRlcm1zQ29udGVudC5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/PROJECT-FOLDER/Work-Folder/Blazor-app/ClefMate/Pages/ContactUs.razor]
+[D:/PROJECT-FOLDER/Work-Folder/clef-mate-site/ClefMate/Pages/ContactUs.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGFjdFVzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PROJECT-FOLDER/Work-Folder/Blazor-app/ClefMate/Pages/FAQ.razor]
+[D:/PROJECT-FOLDER/Work-Folder/clef-mate-site/ClefMate/Pages/FAQ.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRkFRLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PROJECT-FOLDER/Work-Folder/Blazor-app/ClefMate/Pages/Features.razor]
+[D:/PROJECT-FOLDER/Work-Folder/clef-mate-site/ClefMate/Pages/Features.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmVhdHVyZXMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PROJECT-FOLDER/Work-Folder/Blazor-app/ClefMate/Pages/HelpCenter.razor]
+[D:/PROJECT-FOLDER/Work-Folder/clef-mate-site/ClefMate/Pages/HelpCenter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSGVscENlbnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PROJECT-FOLDER/Work-Folder/Blazor-app/ClefMate/Pages/Home.razor]
+[D:/PROJECT-FOLDER/Work-Folder/clef-mate-site/ClefMate/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PROJECT-FOLDER/Work-Folder/Blazor-app/ClefMate/Pages/Invest.razor]
+[D:/PROJECT-FOLDER/Work-Folder/clef-mate-site/ClefMate/Pages/Invest.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW52ZXN0LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PROJECT-FOLDER/Work-Folder/Blazor-app/ClefMate/Pages/Login.razor]
+[D:/PROJECT-FOLDER/Work-Folder/clef-mate-site/ClefMate/Pages/Login.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PROJECT-FOLDER/Work-Folder/Blazor-app/ClefMate/Pages/Price.razor]
+[D:/PROJECT-FOLDER/Work-Folder/clef-mate-site/ClefMate/Pages/Price.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpY2UucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PROJECT-FOLDER/Work-Folder/Blazor-app/ClefMate/Pages/Terms.razor]
+[D:/PROJECT-FOLDER/Work-Folder/clef-mate-site/ClefMate/Pages/Privacy.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PROJECT-FOLDER/Work-Folder/clef-mate-site/ClefMate/Pages/Products.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PROJECT-FOLDER/Work-Folder/clef-mate-site/ClefMate/Pages/Terms.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVybXMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PROJECT-FOLDER/Work-Folder/Blazor-app/ClefMate/_Imports.razor]
+[D:/PROJECT-FOLDER/Work-Folder/clef-mate-site/ClefMate/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 

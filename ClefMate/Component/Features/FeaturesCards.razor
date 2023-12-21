@@ -1,0 +1,81 @@
+   <!--features card start  -->
+      <div class="grid  grid-cols-1 md:grid-cols-2  xl:grid-cols-3  w-full gap-[2em]  ">
+          @foreach (var item in data){
+        <div  style="box-shadow: 0 20px 50px rgb(0 0 0 / 10%);"
+          class=" hover:border-b-[3px] bg-white transition-all duration-300 hover:-translate-y-2 ease-in-out hover:border-b-clef-primary min-h-[230px]  py-[5px]  px-10 rounded-[15px]">
+          <div class=" flex items-center gap-3 cursor-pointer mt-3">
+            <img class="h-[45px]" src="images/Icons/invoice.png" alt="">
+            <h1 class=" capitalize text-clef-primary text-[20px] lg:text-[16px] font-medium">@item.Text</h1>
+          </div>
+          <p class="text-[14px] cursor-pointer mt-4 text-clef-paragraph">@item.paratext</p>
+          @* <a href=""
+            class=" hover:translate-x-1 transition-all duration-200 flex items-center mt-4 text-clef-primary cursor-pointer text-[15px] font-[500]">
+            Discover Invoicing <span
+              class="material-symbols-outlined text-clef-primary">keyboard_double_arrow_right</span></a> *@
+        </div>
+
+          }
+
+      </div>
+
+      <!--features card start  -->
+    
+
+
+    @code{
+
+  // Assuming this is your array of objects
+    List<Cards> data = new List<Cards>
+    {
+        new Cards { Id = 1, Text = "Invoicing"  , paratext= "The Invoicing feature automates the billing process by generating invoices for guests. It ensures accurate and efficient financial transactions.."},
+        new Cards { Id = 2, Text = "gym" , paratext= "Clefmate PMS enables hotels to manage gym facilities and track guest access for a seamless fitness experience."},
+        new Cards { Id = 3, Text = "Quotations" , paratext= "Clefmate PMS enables hotels to generate detailed quotations for guests, providing transparent pricing for various services and amenities."},
+        new Cards { Id = 4, Text = "Front desk (check-in & card Issue)" , paratext= "The Front Desk module simplifies the guest check-in process, allowing hotel staff to efficiently manage guest arrivals. With Smart Lock Integration, digital room keys are issued to guests, enabling a contactless and convenient check-in experience."},
+        new Cards { Id = 5, Text = "payment receipt" , paratext= "This module centralizes payment processing, allowing hotel staff to securely handle guest payments. Digital receipts are generated, enhancing convenience for guests."},
+        new Cards { Id = 6, Text = "reservation and calender " , paratext= "This feature allows hotels to manage guest reservations efficiently. The calendar view helps hoteliers track room availability, upcoming bookings, and schedule events, ensuring seamless room allocation and guest management."},
+        new Cards { Id = 7, Text = "deposit" , paratext= "Hoteliers can manage guest deposits for reservations, ensuring a smooth check-in process and securing bookings."},
+        new Cards { Id = 8, Text = "house keeping" , paratext= "The Housekeeping module optimizes room management by enabling staff to track room occupancy status, guest requests, and efficiently allocate cleaning tasks."},
+        new Cards { Id = 9, Text = "laundry" , paratext= "Clefmate PMS includes a dedicated Laundry module that ensures timely and accurate laundry services for guests."},
+        new Cards { Id = 10, Text = "kitchen order display" , paratext= "This feature facilitates seamless communication between the front-of-house and kitchen staff, ensuring efficient order processing and timely service."},
+        new Cards { Id = 11, Text = "bar pos" , paratext= "The Bar POS module optimizes bar services and tracks beverage inventory, facilitating seamless bar management."},
+        new Cards { Id = 12, Text = "delivery POS" , paratext= "For hotels offering delivery services, Clefmate PMS provides a dedicated POS system to manage orders efficiently."},
+        new Cards { Id = 13, Text = "employees" , paratext= "Hoteliers can efficiently manage staff schedules, performance, and payroll with Clefmate PMS's comprehensive Employees module."},
+        new Cards { Id = 14, Text = "store room / warehouse management" , paratext= "Streamline inventory tracking and control with this feature, ensuring optimal stock levels and minimizing wastage"},
+        new Cards { Id = 15, Text = "restaurant POS" , paratext= "With this feature, hotels can manage food and beverage orders efficiently, enhancing the dining experience for guests."},
+        new Cards { Id = 16, Text = "inventory management" , paratext= "Clefmate PMS allows efficient management of inventory levels for all amenities and supplies, promoting cost-efficiency and smooth operations."},
+        new Cards { Id = 17, Text = "mini bar" , paratext= "Clefmate PMS includes a module dedicated to managing mini bar services and inventory tracking."},
+        new Cards { Id = 18, Text = "pool bar" , paratext= "The Pool Bar module ensures efficient management of poolside bar services and orders."},
+        new Cards { Id = 19, Text = "pool POS" , paratext= ": Enhance poolside services with Clefmate PMS's Pool POS, facilitating seamless order management and billing."},
+        new Cards { Id = 20, Text = "salon pos" , paratext= "This feature simplifies salon service scheduling, invoicing, and appointment tracking for guests."},
+        new Cards { Id = 21, Text = "conference" , paratext= "Efficiently organize and manage conferences with Clefmate PMS, ensuring a successful event experience for guests."},
+        new Cards { Id = 22, Text = "account(revenue & expense ,etc)" , paratext= "Gain valuable financial insights with Clefmate PMS's comprehensive Account module, tracking revenue, expenses, and financial performance."},
+        new Cards { Id = 23, Text = "smart lock integration" , paratext= "Clefmate PMS seamlessly integrates Smart Lock technology, providing guests with digital room keys on their smartphones for enhanced security and convenience."},
+        new Cards { Id = 24, Text = "room/lock open tracking" , paratext= "Monitor room access in real-time with Clefmate PMS's Room/Lock Open Tracking feature, ensuring enhanced security and accountability."},
+        new Cards { Id = 25, Text = "check in tracking" , paratext= "Monitor arrivals and oversee guests' check-in progress seamlessly."},
+        new Cards { Id = 26, Text = "room status" , paratext= " Streamline housekeeping tasks and room turnover with Clefmate PMS's Room Status feature, providing a comprehensive overview of room occupancy."},
+        new Cards { Id = 27, Text = "analysis and reporting" , paratext= " Clefmate PMS offers in-depth analysis and reporting capabilities, empowering hoteliers with data-driven insights for strategic decision-making."},
+        new Cards { Id = 28, Text = "shop  POS" , paratext= " For hotels with on-site shops, Clefmate PMS's Shop POS streamlines sales and inventory management."},
+        new Cards { Id = 29, Text = "SPA" , paratext= " Enhance guest relaxation with Clefmate PMS's SPA module, offering efficient appointment management and billing."},
+        new Cards { Id = 30, Text = "Mobile Money Integration" , paratext= "Clefmate PMS integrates seamlessly with mobile money services, allowing guests to make payments using their mobile wallets. This feature facilitates a convenient and widely used payment method, especially in regions where mobile money is prevalent."},
+        new Cards { Id = 31, Text = "Debit Card Integration" , paratext= "The system supports direct integration with debit card payment gateways. Guests can securely pay for services using their debit cards, providing a flexible and familiar payment option."},
+        new Cards { Id = 32, Text = "SMS" , paratext= "Clefmate PMS incorporates SMS functionality to improve communication with guests and streamline operations."},
+        new Cards { Id = 33, Text = "Reservation and Check-In Alerts" , paratext= "Guests receive SMS alerts for reservation confirmations and "},
+        new Cards { Id = 34, Text = "Payment Confirmation" , paratext= "Upon successful payment, guests receive instant SMS confirmations, providing them with a transparent and real-time record of their transactions. "},
+        new Cards { Id = 35, Text = "Room Ready Notifications" , paratext= "Once a room is ready, guests receive an SMS notification, enhancing their overall experience by minimizing wait times."},
+        new Cards { Id = 36, Text = "Feedback and Surveys" , paratext= "After check-out, guests can receive SMS surveys to provide feedback, helping hotels to continually improve their services."},
+        new Cards { Id = 37, Text = "Feedback and Surveys" , paratext= "In case of emergencies or important announcements, hotels can use SMS to quickly reach guests and ensure their safety and well-being."},
+        new Cards { Id = 38, Text = "Feedback and Surveys" , paratext= " Automated SMS reminders can be sent to guests for any outstanding payments, providing a convenient way to settle bills.By incorporating these additional features, Clefmate PMS becomes an even more comprehensive and guest-friendly solution, enhancing both the operational efficiency of hotels and the overall experience for guests."},
+        // ... more objects
+    };
+
+    // Define a class representing your object
+    public class Cards
+    {
+        public int Id { get; set; }
+        public string? Text { get; set; }
+        public string? paratext { get; set; }
+    }
+
+
+
+    }

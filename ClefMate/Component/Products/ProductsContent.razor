@@ -1,0 +1,61 @@
+<section class="h-auto py-[100px] bg-clef-banner-bg">
+    <div class="w-[95%] lg:w-[60%] mx-auto h-full">
+        <div class="grid sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 w-full gap-4">
+            @* first-card *@
+
+              @foreach (var item in data)
+        {
+           
+         <div style="border-radius: 1.5rem 0.25rem;" class="h-[400px] group w-full relative  flex items-center justify-center border hover:-translate-y-[5px] transition-all duration-200 ease  cursor-pointer border-clef-primary overflow-hidden ">
+                 <img class="group-hover:scale-[1.08] transition-all duration-300 ease "  src="@item.image"alt="">
+                 <div style="background: #6f0f7959;" class="top-0 flex flex-col items-center justify-center overflow-hidden absolute w-full h-[0%] group-hover:h-full transition-all duration-300 ease">
+                    <h1 class="text-white text-[25px] leading-[1.01] text-center capitalize font-[600]">@item.Name</h1>
+                    <p class="text-white text-[16px] text-center font-[500]">@item.text</p>
+                 </div>
+            </div>
+        }
+           
+            @* first-card *@
+
+
+        </div>
+    </div>
+</section>
+
+@code{
+      // Assuming this is your array of objects
+    List<MyObject> data = new List<MyObject>
+    {
+        new MyObject { Id = 1, Name = "portable handsim device", text = "Secure, intuitive hand-sim lock."  , image = "../../images/locks/handsim.png"},
+        new MyObject { Id = 2, Name = "fingerprint hotel lock",  text = "Secure access with unique prints" , image = "../../images/locks/fingerprint-lock-NT01.png"},
+        new MyObject { Id = 3, Name = "smart door hotel lock",  text = "Intelligent entry for safer premise" , image = "../../images/locks/deluns-aira-bk.png"},
+        new MyObject { Id = 4, Name = "Smart Security Door hotel Lock",  text = "Advanced safeguard for your entrance" , image = "../../images/locks/deluns-x5 (1).png"},
+        new MyObject { Id = 5, Name = "card key hotel Lock",  text = "Secure access with card keys" , image = "../../images/locks/hotel-card-key-lock.png"},
+        new MyObject { Id = 6, Name = "hotel card switch",  text = "Effortlessly shift room access cards." , image = "../../images/locks/hotel-card-switch.png"},
+        new MyObject { Id = 7, Name = "card key hotel Lock",  text = "Seamless security for hotel access." , image = "../../images/locks/hotelcardkeylockv3.png"},
+        new MyObject { Id = 8, Name = "hotel key Lock",  text = "Efficiently safeguard guest room access." , image = "../../images/locks/hotelkeylockv3.png"},
+        new MyObject { Id = 9, Name = "hotel card Lock",  text = "Reliable safeguard with Clef Mate" , image = "../../images/locks/l01hotelcardlock.png"},
+        new MyObject { Id = 10, Name = "hotel card Lockk",  text = "Secure your access with confidence." , image = "../../images/locks/motellockl03sg.png"},
+        new MyObject { Id = 11, Name = "hotel card Lock",  text = "Assured protection for your keys." , image = "../../images/locks/motellockl03sn.png"},
+        new MyObject { Id = 12, Name = "hotel card Lock",  text = "Secure Your Hotel Rooms Efficiently." , image = "../../images/locks/motellockl03bk.png"},
+        new MyObject { Id = 13, Name = "hotel RFID card",  text = "Key to comfort, Clef Mate." , image = "../../images/locks/rfid_102.png"},
+        new MyObject { Id = 14, Name = "hotel RFID card lock",  text = "Guarantee Security with Clef Mate card lock." , image = "../../images/locks/rfid-card-lock-310ac.png"},
+        new MyObject { Id = 15, Name = "hotel RFID card lock",  text = "Get Reliable Card Locks by ClefMate." , image = "../../images/locks/rfid-card-lock-310bk.png"},
+        new MyObject { Id = 16, Name = "hotel RFID card lock",  text = "Securely protect access with RefID locks." , image = "../../images/locks/rfid-card-lock-310sg.png"},
+        new MyObject { Id = 17, Name = "hotel RFID card lock",  text = "Modernize access: RFID hotel locks." , image = "../../images/locks/rfid-card-lock-310sn.png"},
+        new MyObject { Id = 18, Name = "hotel RFID door lock",  text = "Secure, RFID hotel door access." , image = "../../images/locks/rfid-hotel-door-lock-h9.png"},
+        new MyObject { Id = 19, Name = "hotel RFID key card lock",  text = "Secure access, simplified management solution." , image = "../../images/locks/rfid-key-card-lock-h9.png"},
+        new MyObject { Id = 19, Name = "hotel smart RFID key card lock ",  text = "RFID-enabled smart lock security." , image = "../../images/locks/smart-RFID-key-Card-Locks.jpg"},
+        // ... more objects
+    };
+
+    // Define a class representing your object
+    public class MyObject
+    {
+        public int Id { get; set; }
+        public string? Name { get; set; }
+        public string? text { get; set; }
+        public string? image { get; set; }
+
+    }
+}

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wWzSC7Lr8WpJERY1l5aEaGC16Y/apejTCLZVCQNkwBHE5DPxoAkvCIOutkaZe6mR2CJjwC7RuJu+Eba9esHBww==",
+  "dgSpecHash": "R+wHzQOJqcVfz3EC/WLozab2jtTgwErPe1dzbvfBvpZtjO9j2qr+e2xbPtzTFhpZaGCcbNnuHLB584GEJIXUtA==",
   "success": true,
-  "projectFilePath": "D:\\PROJECT-FOLDER\\Work-Folder\\Blazor-app\\ClefMate\\ClefMate.csproj",
+  "projectFilePath": "D:\\PROJECT-FOLDER\\Work-Folder\\clef-mate-site\\ClefMate\\ClefMate.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.0\\microsoft.aspnetcore.authorization.8.0.0.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.aspnetcore.components\\8.0.0\\microsoft.aspnetcore.components.8.0.0.nupkg.sha512",
